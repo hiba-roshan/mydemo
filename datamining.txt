@@ -1,0 +1,29 @@
+DATA MINING
+ What motivated data mining? Why is it important?
+The major reason that data mining has attracted a great deal of attention in
+information industry in recent years is due to the wide availability of huge amounts of
+data and the imminent need for turning such data into useful information and
+knowledge. The information and knowledge gained can be used for applications
+ranging from business management, production control, and market analysis, to
+engineering design and science exploration.
+	What is data mining?
+Data mining refers to extracting or mining" knowledge from large amounts of data.
+There are many other terms related to data mining, such as knowledge mining,
+knowledge extraction, data/pattern analysis, data archaeology, and data dredging.
+Many people treat data mining as a synonym for another popularly used term,
+Knowledge Discovery in Databases", or KDD Essential step in the process of
+knowledge discovery in databases Knowledge discovery as a process is depicted in
+following figure and consists of an iterative sequence of the following steps:
+
+Data cleaning: to remove noise or irrelevant data
+Data integration: where multiple data sources may be combined
+Data selection: where data relevant to the analysis task are retrieved from the
+database
+Data transformation: where data are transformed or consolidated into forms
+appropriate for mining by performing summary or aggregation operations
+Data mining :an essential process where intelligent methods are applied in
+order to extract data patterns
+Pattern evaluation to identify the truly interesting patterns representing
+knowledge based on some interestingness measures
+knowledge presentation: where visualization and knowledge representation
+techniques are used to present the mined knowledge to the user.
