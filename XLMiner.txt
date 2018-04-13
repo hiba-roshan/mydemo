@@ -1,0 +1,36 @@
+﻿
+Experiment No.11 
+AIM:To Study Details of  BI tool XLMiner
+
+THEORY:
+XLMiner is a comprehensive data mining add-in for Excel. Data mining is a discovery-driven data analysis technology used for identifying patterns and relationships in data sets. With overwhelming amounts of data now available from transaction systems and external data sources, organizations are presented with increasing opportunities to understand their data and gain insights into it. Data mining is still an emerging field, and is a convergence of fields like statistics, machine learning, and artificial intelligence. 
+XLMiner is a tool belt offering a variety of methods to analyze data. It has extensive coverage of statistical and machine-learning techniques for classification, prediction, affinity analysis, data exploration, and reduction. 
+The XLMiner ribbon is divided into five tabs: Data, Data Analysis, Time Series, Data Mining, and Applying Your Model. 
+Data - This tab includes the Get Data icon. Click Get Data to retrieve a sample from a worksheet or database. Select File Folder to import a collection of text documents located within a file folder. Select Big Data to use Apache Spark to bring big data into Excel.
+Data Analysis - This tab includes four icons: Explore, Transform, Cluster, and Text. Click Explore to use the Chart Wizard, Feature Selection, or view existing charts. Click Transform to transform data sets with missing data, perform binning, or to transform categorical data. Click Cluster to perform cluster analysis using k-Means or Hierarchical methods. Click Text to perform an analysis on a collection of text documents using the new Text Miner feature.
+Time Series - This tab includes three icons: Partition, ARIMA, and Smoothing. These functions are used when analyzing a time series. 
+Data Mining - This tab includes four icons: Partition, Classify, Predict, and Associate. These functions are used to perform data mining activities. 
+Applying Your Model - This tab includes two icons: Score and Help. Click Score to score data in a database or worksheet using the classification or prediction algorithms. Click Help to change the product, check your license status, view data set examples, view the Help File, download the User Guide, check for updates, and view copyright information related to XLMiner.
+Installing the Software
+To install the software, run the XLMiner SolverSetup program. Open the XLMiner User Guide, and view the Installation and Add-Ins chapter to follow the installation procedure. This chapter also explains how to activate and deactivate the XLMiner and Analytic Solver Platform Excel add-ins.
+Or else Register on the sight and use the XLMiner Online tool
+
+Advanatges
+Easy to use 
+Portable
+Online version is available
+Supports wide variety of input formats 
+
+What's New in Release V2015-R2
+XLMiner Platform V2015-R2 provides the following new features:
+Share data mining results in the cloud 
+Text mining and ensemble methods for classification and prediction 
+Transfer data mining results into Microsoft Power BI online accounts 
+Export data mining results into a set of Tableau Data Extract (*.tde) files 
+Link Excel workbook with Big Data 
+Obtain sampled and summarized results from larger data sets running Apache Spark (http://spark.apache.org/) 
+
+
+Conclusion
+Thus we have studied the BI tool  XLMINER
+
